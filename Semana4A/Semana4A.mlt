@@ -889,9 +889,9 @@
     <transition id="transition7" out="00:00:00.333">
       <property name="a_track">0</property>
       <property name="b_track">1</property>
+      <property name="mlt_service">mix</property>
       <property name="start">-1</property>
       <property name="accepts_blanks">1</property>
-      <property name="mlt_service">mix</property>
     </transition>
   </tractor>
   <chain id="chain53" out="00:00:31.129">
@@ -1026,6 +1026,93 @@
     <property name="shotcut:hash">75291a6e2b91d3f7a707b80f6cc4081a</property>
     <property name="shotcut:caption">Cronometro descança 30 segundos.mp4</property>
   </chain>
+  <chain id="chain62" out="00:01:55.359">
+    <property name="length">00:01:55.392</property>
+    <property name="eof">pause</property>
+    <property name="resource">D:/Dropbox2022/Dropbox/2023/Editar/30 Dias + Fitness/Semana4/VID_20230325_132236.mp4</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">50e807b8938ccc89de3033ec78512b2d</property>
+    <property name="ignore_points">0</property>
+    <property name="shotcut:caption">VID_20230325_132236.mp4</property>
+    <property name="shotcut:skipConvert">1</property>
+    <property name="shotcut:defaultAudioIndex">1</property>
+  </chain>
+  <chain id="chain63" out="00:00:31.129">
+    <property name="length">00:00:31.162</property>
+    <property name="eof">pause</property>
+    <property name="resource">D:/Dropbox2022/Dropbox/2023/Editar/30 Dias + Fitness/Semana4/Cronometro 30 segundos.mp4</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">f4e1a6ff5963b2f62ac13e078d810f09</property>
+    <property name="shotcut:caption">Cronometro 30 segundos.mp4</property>
+  </chain>
+  <chain id="chain64" out="00:01:55.359">
+    <property name="length">00:01:55.392</property>
+    <property name="eof">pause</property>
+    <property name="resource">D:/Dropbox2022/Dropbox/2023/Editar/30 Dias + Fitness/Semana4/VID_20230325_132236.mp4</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">50e807b8938ccc89de3033ec78512b2d</property>
+    <property name="ignore_points">0</property>
+    <property name="shotcut:caption">VID_20230325_132236.mp4</property>
+    <property name="shotcut:skipConvert">1</property>
+    <property name="shotcut:defaultAudioIndex">1</property>
+  </chain>
+  <chain id="chain65" out="00:00:31.062">
+    <property name="length">00:00:31.096</property>
+    <property name="eof">pause</property>
+    <property name="resource">D:/Dropbox2022/Dropbox/2023/Editar/30 Dias + Fitness/Semana3/Cronometro chamda última sequencia.mp4</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">d4447d424930359bc8d77f348596ea23</property>
+    <property name="shotcut:caption">Cronometro chamda última sequencia.mp4</property>
+  </chain>
+  <chain id="chain66" out="00:01:55.359">
+    <property name="length">00:01:55.392</property>
+    <property name="eof">pause</property>
+    <property name="resource">D:/Dropbox2022/Dropbox/2023/Editar/30 Dias + Fitness/Semana4/VID_20230325_132236.mp4</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">50e807b8938ccc89de3033ec78512b2d</property>
+    <property name="ignore_points">0</property>
+    <property name="shotcut:caption">VID_20230325_132236.mp4</property>
+    <property name="shotcut:skipConvert">1</property>
+    <property name="shotcut:defaultAudioIndex">1</property>
+  </chain>
+  <chain id="chain67" out="00:00:31.129">
+    <property name="length">00:00:31.162</property>
+    <property name="eof">pause</property>
+    <property name="resource">D:/Dropbox2022/Dropbox/2023/Editar/30 Dias + Fitness/Semana4/Cronometro 30 segundos.mp4</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">f4e1a6ff5963b2f62ac13e078d810f09</property>
+    <property name="shotcut:caption">Cronometro 30 segundos.mp4</property>
+  </chain>
   <playlist id="playlist0">
     <property name="shotcut:video">1</property>
     <property name="shotcut:name">V1</property>
@@ -1052,8 +1139,14 @@
     <entry producer="chain59" in="00:00:37.928" out="00:00:46.260"/>
     <entry producer="chain60" in="00:00:46.293" out="00:01:02.366"/>
     <entry producer="chain61" in="00:00:00.000" out="00:00:31.062"/>
+    <entry producer="chain62" in="00:00:00.000" out="00:01:52.759"/>
+    <entry producer="chain63" in="00:00:00.000" out="00:00:31.129"/>
+    <entry producer="chain64" in="00:00:39.194" out="00:01:37.661"/>
+    <entry producer="chain65" in="00:00:00.000" out="00:00:31.062"/>
+    <entry producer="chain66" in="00:00:39.194" out="00:01:37.661"/>
+    <entry producer="chain67" in="00:00:00.000" out="00:00:31.129"/>
   </playlist>
-  <chain id="chain62" out="00:01:46.693">
+  <chain id="chain68" out="00:01:46.693">
     <property name="length">00:01:46.727</property>
     <property name="eof">pause</property>
     <property name="resource">D:/Dropbox2022/Dropbox/2023/Editar/30 Dias + Fitness/Semana4/VID_20230325_131147.mp4</property>
@@ -1068,7 +1161,7 @@
     <property name="shotcut:caption">VID_20230325_131147.mp4</property>
     <property name="shotcut:defaultAudioIndex">1</property>
   </chain>
-  <chain id="chain63" out="00:01:46.693">
+  <chain id="chain69" out="00:01:46.693">
     <property name="length">00:01:46.727</property>
     <property name="eof">pause</property>
     <property name="resource">D:/Dropbox2022/Dropbox/2023/Editar/30 Dias + Fitness/Semana4/VID_20230325_131147.mp4</property>
@@ -1083,7 +1176,7 @@
     <property name="shotcut:caption">VID_20230325_131147.mp4</property>
     <property name="shotcut:defaultAudioIndex">1</property>
   </chain>
-  <chain id="chain64" out="00:01:14.798">
+  <chain id="chain70" out="00:01:14.798">
     <property name="length">00:01:14.831</property>
     <property name="eof">pause</property>
     <property name="resource">D:/Dropbox2022/Dropbox/2023/Editar/30 Dias + Fitness/Semana4/VID_20230325_131528.mp4</property>
@@ -1099,7 +1192,7 @@
     <property name="shotcut:skipConvert">1</property>
     <property name="shotcut:defaultAudioIndex">1</property>
   </chain>
-  <chain id="chain65" out="00:01:14.798">
+  <chain id="chain71" out="00:01:14.798">
     <property name="length">00:01:14.831</property>
     <property name="eof">pause</property>
     <property name="resource">D:/Dropbox2022/Dropbox/2023/Editar/30 Dias + Fitness/Semana4/VID_20230325_131528.mp4</property>
@@ -1115,7 +1208,7 @@
     <property name="shotcut:skipConvert">1</property>
     <property name="shotcut:defaultAudioIndex">1</property>
   </chain>
-  <chain id="chain66" out="00:01:16.631">
+  <chain id="chain72" out="00:01:16.631">
     <property name="length">00:01:16.664</property>
     <property name="eof">pause</property>
     <property name="resource">D:/Dropbox2022/Dropbox/2023/Editar/30 Dias + Fitness/Semana4/VID_20230325_131912.mp4</property>
@@ -1130,22 +1223,145 @@
     <property name="shotcut:caption">VID_20230325_131912.mp4</property>
     <property name="shotcut:defaultAudioIndex">1</property>
   </chain>
+  <chain id="chain73" out="00:01:55.359">
+    <property name="length">00:01:55.392</property>
+    <property name="eof">pause</property>
+    <property name="resource">D:/Dropbox2022/Dropbox/2023/Editar/30 Dias + Fitness/Semana4/VID_20230325_132236.mp4</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">-1</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">50e807b8938ccc89de3033ec78512b2d</property>
+    <property name="ignore_points">0</property>
+    <property name="shotcut:caption">VID_20230325_132236.mp4</property>
+    <property name="shotcut:skipConvert">1</property>
+    <property name="shotcut:defaultAudioIndex">1</property>
+  </chain>
+  <chain id="chain74" out="00:01:55.359">
+    <property name="length">00:01:55.392</property>
+    <property name="eof">pause</property>
+    <property name="resource">D:/Dropbox2022/Dropbox/2023/Editar/30 Dias + Fitness/Semana4/VID_20230325_132236.mp4</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">-1</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">50e807b8938ccc89de3033ec78512b2d</property>
+    <property name="ignore_points">0</property>
+    <property name="shotcut:caption">VID_20230325_132236.mp4</property>
+    <property name="shotcut:skipConvert">1</property>
+    <property name="shotcut:defaultAudioIndex">1</property>
+  </chain>
+  <chain id="chain75" out="00:01:55.359">
+    <property name="length">00:01:55.392</property>
+    <property name="eof">pause</property>
+    <property name="resource">D:/Dropbox2022/Dropbox/2023/Editar/30 Dias + Fitness/Semana4/VID_20230325_132236.mp4</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">-1</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">50e807b8938ccc89de3033ec78512b2d</property>
+    <property name="ignore_points">0</property>
+    <property name="shotcut:caption">VID_20230325_132236.mp4</property>
+    <property name="shotcut:skipConvert">1</property>
+    <property name="shotcut:defaultAudioIndex">1</property>
+  </chain>
+  <chain id="chain76" out="00:01:55.359">
+    <property name="length">00:01:55.392</property>
+    <property name="eof">pause</property>
+    <property name="resource">D:/Dropbox2022/Dropbox/2023/Editar/30 Dias + Fitness/Semana4/VID_20230325_132236.mp4</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">-1</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">50e807b8938ccc89de3033ec78512b2d</property>
+    <property name="ignore_points">0</property>
+    <property name="shotcut:caption">VID_20230325_132236.mp4</property>
+    <property name="shotcut:skipConvert">1</property>
+    <property name="shotcut:defaultAudioIndex">1</property>
+  </chain>
+  <chain id="chain77" out="00:01:55.359">
+    <property name="length">00:01:55.392</property>
+    <property name="eof">pause</property>
+    <property name="resource">D:/Dropbox2022/Dropbox/2023/Editar/30 Dias + Fitness/Semana4/VID_20230325_132236.mp4</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">-1</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">50e807b8938ccc89de3033ec78512b2d</property>
+    <property name="ignore_points">0</property>
+    <property name="shotcut:caption">VID_20230325_132236.mp4</property>
+    <property name="shotcut:skipConvert">1</property>
+    <property name="shotcut:defaultAudioIndex">1</property>
+  </chain>
+  <chain id="chain78" out="00:02:02.733">
+    <property name="length">00:02:02.766</property>
+    <property name="eof">pause</property>
+    <property name="resource">D:/Dropbox2022/Dropbox/2023/Editar/30 Dias + Fitness/Semana4/VID_20230325_140057.mp4</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">-1</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">187b885b118520b8cc470310114fd4c3</property>
+    <property name="ignore_points">0</property>
+    <property name="shotcut:caption">VID_20230325_140057.mp4</property>
+    <property name="shotcut:defaultAudioIndex">1</property>
+  </chain>
+  <chain id="chain79" out="00:02:02.733">
+    <property name="length">00:02:02.766</property>
+    <property name="eof">pause</property>
+    <property name="resource">D:/Dropbox2022/Dropbox/2023/Editar/30 Dias + Fitness/Semana4/VID_20230325_140057.mp4</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">187b885b118520b8cc470310114fd4c3</property>
+    <property name="ignore_points">0</property>
+    <property name="shotcut:caption">VID_20230325_140057.mp4</property>
+  </chain>
   <playlist id="playlist1">
     <property name="shotcut:audio">1</property>
     <property name="shotcut:name">A1</property>
     <property name="shotcut:lock">0</property>
     <blank length="00:01:57.425"/>
-    <entry producer="chain62" in="00:00:25.330" out="00:00:42.694"/>
+    <entry producer="chain68" in="00:00:25.330" out="00:00:42.694"/>
     <blank length="00:00:47.327"/>
-    <entry producer="chain63" in="00:01:35.062" out="00:01:44.694"/>
+    <entry producer="chain69" in="00:01:35.062" out="00:01:44.694"/>
     <blank length="00:00:20.030"/>
-    <entry producer="chain64" in="00:00:01.400" out="00:00:21.964"/>
+    <entry producer="chain70" in="00:00:01.400" out="00:00:21.964"/>
     <blank length="00:00:41.861"/>
-    <entry producer="chain65" in="00:01:03.866" out="00:01:14.798"/>
+    <entry producer="chain71" in="00:01:03.866" out="00:01:14.798"/>
     <blank length="00:00:31.162"/>
-    <entry producer="chain66" in="00:00:00.000" out="00:00:23.163"/>
+    <entry producer="chain72" in="00:00:00.000" out="00:00:23.163"/>
+    <blank length="00:01:27.029"/>
+    <entry producer="chain73" in="00:00:00.000" out="00:00:44.594"/>
+    <blank length="00:00:31.029"/>
+    <entry producer="chain74" in="00:01:15.664" out="00:01:38.061"/>
+    <blank length="00:00:03.766"/>
+    <entry producer="chain75" in="00:01:41.861" out="00:01:55.359"/>
+    <blank length="00:01:05.266"/>
+    <entry producer="chain76" in="00:01:15.898" out="00:01:37.661"/>
+    <blank length="00:01:11.332"/>
+    <entry producer="chain77" in="00:01:19.431" out="00:01:37.661"/>
+    <blank length="00:00:27.196"/>
+    <entry producer="chain78" in="00:01:00.467" out="00:01:03.300"/>
+    <blank length="00:00:12.265"/>
+    <entry producer="chain79" in="00:01:52.759" out="00:01:56.259"/>
   </playlist>
-  <chain id="chain67" out="00:32:50.393">
+  <chain id="chain80" out="00:32:50.393">
     <property name="length">00:32:50.426</property>
     <property name="eof">pause</property>
     <property name="resource">D:/Dropbox2022/Dropbox/2023/Editar/30 Dias + Fitness/Semana4/FUNK BRASILERO   CARDIO DANCE FITNESS ✅�.mp3</property>
@@ -1167,7 +1383,7 @@
       <property name="shotcut:animIn">24</property>
     </filter>
   </chain>
-  <chain id="chain68" out="00:32:50.393">
+  <chain id="chain81" out="00:32:50.393">
     <property name="length">00:32:50.426</property>
     <property name="eof">pause</property>
     <property name="resource">D:/Dropbox2022/Dropbox/2023/Editar/30 Dias + Fitness/Semana4/FUNK BRASILERO   CARDIO DANCE FITNESS ✅�.mp3</property>
@@ -1186,12 +1402,12 @@
     <property name="shotcut:name">A2</property>
     <property name="shotcut:lock">0</property>
     <blank length="00:00:01.266"/>
-    <entry producer="chain67" in="00:00:00.000" out="00:05:22.830"/>
-    <entry producer="chain68" in="00:05:25.196" out="00:32:50.393"/>
+    <entry producer="chain80" in="00:00:00.000" out="00:05:22.830"/>
+    <entry producer="chain81" in="00:05:25.196" out="00:32:50.393"/>
     <filter id="filter2" out="00:32:49.326">
       <property name="window">75</property>
       <property name="max_gain">20dB</property>
-      <property name="level">00:01:32.229=0;00:01:33.862=-22;00:02:14.998=-24.9375;00:02:16.164=0;00:03:00.900=0;00:03:01.933=-24.9375;00:03:12.332=-27.875;00:03:13.831=0;00:03:31.096=0;00:03:32.029=-19.0625;00:03:52.626=-19.0625;00:03:53.392=0;00:04:33.195=0;00:04:33.895=-24.9375;00:04:45.660=0;00:04:46.160=0;00:05:07.699=0;00:05:08.432=-36.6875;00:05:19.097=0;00:05:20.097=-27.875;00:05:38.694=-19.0625;00:05:39.361=0;00:06:35.928=0;00:06:36.461=-22;00:06:40.428=-27.875;00:06:41.394=0;00:06:50.326=0;00:06:55.692=0;00:07:04.099=0;00:07:04.866=0;00:07:17.764=0</property>
+      <property name="level">00:01:32.229=0;00:01:33.862=-22;00:02:14.998=-24.9375;00:02:16.164=0;00:03:00.900=0;00:03:01.933=-24.9375;00:03:12.332=-27.875;00:03:13.831=0;00:03:31.096=0;00:03:32.029=-19.0625;00:03:52.626=-19.0625;00:03:53.392=0;00:04:33.195=0;00:04:33.895=-24.9375;00:04:45.660=0;00:04:46.160=0;00:05:07.699=0;00:05:08.432=-36.6875;00:05:19.097=0;00:05:20.097=-27.875;00:05:38.694=-19.0625;00:05:39.361=0;00:06:35.928=0;00:06:36.461=-22;00:06:40.428=-27.875;00:06:41.394=0;00:06:50.326=0;00:06:55.692=0;00:07:04.099=0;00:07:04.866=-27.875;00:07:51.259=-22;00:07:52.059=0;00:08:21.630=0;00:08:22.197=-22;00:08:44.560=-22;00:08:45.194=0;00:08:47.260=-4.375;00:08:48.493=-48.4375;00:09:01.966=-13.1875;00:09:02.900=0;00:10:07.099=0;00:10:07.499=-16.125;00:10:33.928=-16.125;00:10:34.695=0;00:11:39.961=0;00:11:40.394=-22;00:11:58.625=-24.9375;00:11:59.125=0;00:12:25.263=0;00:12:25.830=-60.4336;00:12:29.362=-24.9375;00:12:30.062=0</property>
       <property name="mlt_service">volume</property>
     </filter>
   </playlist>
